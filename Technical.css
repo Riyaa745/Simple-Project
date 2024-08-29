@@ -23,6 +23,7 @@
 }
 
 .nav_item a {
+    display: block;
     text-decoration: none;
     color: white;
     list-style: none;
